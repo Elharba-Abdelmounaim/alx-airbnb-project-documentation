@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📘 Airbnb Clone Backend - Features and Functionalities
 
 This document outlines the key features and functionalities that the backend of the **Airbnb Clone** project must support. The goal is to clearly define all the core components required to build a scalable, secure, and fully functional system.
@@ -73,4 +72,13 @@ To help guide the implementation of the Airbnb Clone backend by clearly document
 
 =======
 # alx-airbnb-project-documentation
->>>>>>> 48ca2203b8c0d117b574741d58d2511ec7587862
+
+# Airbnb Use Case Diagram
+
+This diagram illustrates the key functionalities and user interactions in an Airbnb-like system.
+
+![Airbnb Use Case Diagram](airbnb-use-case.png)
+
+## Key Elements
+- **Actors**: Guest, Registered User, Host, Admin, Payment System
+- **Core Functionalities**: User registration, property booking, payment processing, reviews, and messaging
