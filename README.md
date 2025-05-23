@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Airbnb Clone Backend - Features and Functionalities
 
 This document outlines the key features and functionalities that the backend of the **Airbnb Clone** project must support. The goal is to clearly define all the core components required to build a scalable, secure, and fully functional system.
@@ -70,3 +71,6 @@ The diagram included in this directory visually represents these core backend fu
 To help guide the implementation of the Airbnb Clone backend by clearly documenting the required system features, ensuring better planning and team collaboration.
 
 
+=======
+# alx-airbnb-project-documentation
+>>>>>>> 48ca2203b8c0d117b574741d58d2511ec7587862
